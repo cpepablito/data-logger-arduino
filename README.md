@@ -10,8 +10,8 @@ Montagem:
 
 ## Instalando a biblioteca no python
 No seu terminal, digite:
-* **psycopg2**: `sudo apt-get install psycopg2`
-* **pyserial**: `pip install pyserial`
+* **psycopg2**: `sudo pip install psycopg2`
+* **pyserial**: `sudo pip install pyserial`
 
 
 ## Programando Arduino com o Atom
